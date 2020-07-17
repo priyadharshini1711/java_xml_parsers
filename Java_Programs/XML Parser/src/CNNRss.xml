@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://rss.cnn.com/~d/styles/itemcontent.css"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+   <channel>
+      <title><![CDATA[CNN.com - RSS Channel - App International Edition]]></title>
+      <description><![CDATA[CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.]]></description>
+      <link>https://www.cnn.com/app-international-edition/index.html</link>
+      <image>
+         <url>http://i2.cdn.turner.com/cnn/2015/images/09/24/cnn.digital.png</url>
+         <title>CNN.com - RSS Channel - App International Edition</title>
+         <link>https://www.cnn.com/app-international-edition/index.html</link>
+      </image>
+      <generator>coredev-bumblebee</generator>
+      <lastBuildDate>Thu, 16 Jul 2020 21:08:47 GMT</lastBuildDate>
+      <pubDate>Thu, 16 Jul 2020 21:05:51 GMT</pubDate>
+      <copyright><![CDATA[Copyright (c) 2020 Turner Broadcasting System, Inc. All Rights Reserved.]]></copyright>
+      <language><![CDATA[en-US]]></language>
+      <ttl>10</ttl>
+      <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://rss.cnn.com/rss/edition" />
+      <feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="rss/edition" />
+      <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" />
+      <item>
+         <title><![CDATA[Why do we have different blood types -- and do they make us more vulnerable to Covid-19?]]></title>
+         <description><![CDATA[Most humans fall into one of four blood groups — A, B, AB or O.]]></description>
+         <link>https://www.cnn.com/2020/07/16/health/blood-types-coronavirus-wellness-scn/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/16/health/blood-types-coronavirus-wellness-scn/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 11:05:43 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200714121605-hp-only-20200714-blood-groups-card-super-169.png" height="619" width="1100" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200714121605-hp-only-20200714-blood-groups-card-large-11.png" height="1800" width="1801" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200714121605-hp-only-20200714-blood-groups-card-vertical-large-gallery.png" height="552" width="414" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200714121605-hp-only-20200714-blood-groups-card-video-synd-2.png" height="1800" width="2400" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200714121605-hp-only-20200714-blood-groups-card-live-video.png" height="324" width="576" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200714121605-hp-only-20200714-blood-groups-card-t1-main.png" height="250" width="250" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200714121605-hp-only-20200714-blood-groups-card-vertical-gallery.png" height="360" width="270" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200714121605-hp-only-20200714-blood-groups-card-story-body.png" height="169" width="300" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200714121605-hp-only-20200714-blood-groups-card-t1-main.png" height="250" width="250" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200714121605-hp-only-20200714-blood-groups-card-assign.png" height="186" width="248" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200714121605-hp-only-20200714-blood-groups-card-hp-video.png" height="144" width="256" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA['Science should not stand in the way' of opening schools, White House says]]></title>
+         <description><![CDATA[America's Covid-19 crisis is dire as 39 states see an increase in cases]]></description>
+         <link>https://edition.cnn.com/world/live-news/coronavirus-pandemic-07-16-20-intl/h_6a7fcb4568d5d53614a363cf627065e4</link>
+         <guid isPermaLink="true">https://edition.cnn.com/world/live-news/coronavirus-pandemic-07-16-20-intl/h_6a7fcb4568d5d53614a363cf627065e4</guid>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200417143153-01-cdc-coronavirus-model-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200417143153-01-cdc-coronavirus-model-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200417143153-01-cdc-coronavirus-model-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200417143153-01-cdc-coronavirus-model-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200417143153-01-cdc-coronavirus-model-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200417143153-01-cdc-coronavirus-model-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200417143153-01-cdc-coronavirus-model-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200417143153-01-cdc-coronavirus-model-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200417143153-01-cdc-coronavirus-model-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200417143153-01-cdc-coronavirus-model-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200417143153-01-cdc-coronavirus-model-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Governor blame media for his state's Covid-19 response]]></title>
+         <description><![CDATA[CNN's Brianna Keilar points out the inaccuracies in Florida Gov. Ron DeSantis' argument that the media stopped asking about coronavirus in May and is to blame for the public becoming complacent and cases rising.]]></description>
+         <link>https://www.cnn.com/videos/politics/2020/07/16/florida-gov-ron-desantis-coronavirus-media-fact-check-nr-vpx.cnn</link>
+         <guid isPermaLink="true">https://www.cnn.com/videos/politics/2020/07/16/florida-gov-ron-desantis-coronavirus-media-fact-check-nr-vpx.cnn</guid>
+         <pubDate>Thu, 16 Jul 2020 18:25:31 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200626160351-ron-desantis-0506-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200626160351-ron-desantis-0506-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200626160351-ron-desantis-0506-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200626160351-ron-desantis-0506-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200626160351-ron-desantis-0506-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200626160351-ron-desantis-0506-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200626160351-ron-desantis-0506-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200626160351-ron-desantis-0506-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200626160351-ron-desantis-0506-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200626160351-ron-desantis-0506-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200626160351-ron-desantis-0506-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Even Donald Trump knows he's in deep, deep trouble]]></title>
+         <link>https://www.cnn.com/collections/intl-us-coronavirus-0716/</link>
+         <guid isPermaLink="true">https://www.cnn.com/collections/intl-us-coronavirus-0716/</guid>
+         <pubDate>Thu, 16 Jul 2020 19:56:28 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200430104801-02-trump-kushner-0402-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200430104801-02-trump-kushner-0402-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200430104801-02-trump-kushner-0402-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200430104801-02-trump-kushner-0402-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200430104801-02-trump-kushner-0402-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200430104801-02-trump-kushner-0402-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200430104801-02-trump-kushner-0402-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200430104801-02-trump-kushner-0402-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200430104801-02-trump-kushner-0402-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200430104801-02-trump-kushner-0402-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200430104801-02-trump-kushner-0402-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[CEO's death and dismemberment sends shock waves through Nigeria's tech community]]></title>
+         <link>https://www.cnn.com/2020/07/16/africa/gokada-fahim-saleh-death-nigeria-intl/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/16/africa/gokada-fahim-saleh-death-nigeria-intl/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 19:20:57 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715095424-02-tech-ceo-dismembered-new-york-trnd-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715095424-02-tech-ceo-dismembered-new-york-trnd-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715095424-02-tech-ceo-dismembered-new-york-trnd-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715095424-02-tech-ceo-dismembered-new-york-trnd-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715095424-02-tech-ceo-dismembered-new-york-trnd-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715095424-02-tech-ceo-dismembered-new-york-trnd-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715095424-02-tech-ceo-dismembered-new-york-trnd-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715095424-02-tech-ceo-dismembered-new-york-trnd-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715095424-02-tech-ceo-dismembered-new-york-trnd-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715095424-02-tech-ceo-dismembered-new-york-trnd-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715095424-02-tech-ceo-dismembered-new-york-trnd-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA['Europe's last dictator' causes alarm at US State Department]]></title>
+         <description><![CDATA[The State Department expressed concern at crackdowns on protesters and journalists after two candidates opposing that country's leader -- nicknamed "Europe's last dictator" -- were disqualified from the race.]]></description>
+         <link>https://www.cnn.com/2020/07/16/politics/belarus-crackdowns-state-department/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/16/politics/belarus-crackdowns-state-department/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 17:34:16 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200621121128-02-minsk-protest-0619-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200621121128-02-minsk-protest-0619-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200621121128-02-minsk-protest-0619-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200621121128-02-minsk-protest-0619-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200621121128-02-minsk-protest-0619-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200621121128-02-minsk-protest-0619-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200621121128-02-minsk-protest-0619-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200621121128-02-minsk-protest-0619-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200621121128-02-minsk-protest-0619-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200621121128-02-minsk-protest-0619-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200621121128-02-minsk-protest-0619-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Before taking her own life, triathlete asked mother to 'lay bare the sins' of alleged abusers]]></title>
+         <description><![CDATA[He's a typically proud father as he recalls the joy of his daughter winning a medal.]]></description>
+         <link>https://www.cnn.com/2020/07/15/sport/choi-suk-hyeon-triathlon-abuse-south-korea-spt-intl/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/15/sport/choi-suk-hyeon-triathlon-abuse-south-korea-spt-intl/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 12:16:36 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200707122041-choi-suk-hyeon-restricted-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200707122041-choi-suk-hyeon-restricted-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200707122041-choi-suk-hyeon-restricted-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200707122041-choi-suk-hyeon-restricted-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200707122041-choi-suk-hyeon-restricted-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200707122041-choi-suk-hyeon-restricted-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200707122041-choi-suk-hyeon-restricted-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200707122041-choi-suk-hyeon-restricted-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200707122041-choi-suk-hyeon-restricted-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200707122041-choi-suk-hyeon-restricted-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200707122041-choi-suk-hyeon-restricted-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Militant groups use murder, arson to enforce lockdown here]]></title>
+         <description><![CDATA[Armed groups in Colombia are using killings and other forms of violence to force civilians to follow their rules to slow coronavirus transmission, Human Rights Watch alleged on Wednesday.]]></description>
+         <link>https://www.cnn.com/2020/07/16/americas/colombia-militants-coronavirus-lockdown-intl/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/16/americas/colombia-militants-coronavirus-lockdown-intl/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 18:40:24 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715130615-colombia-coronovirus-restrictions-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715130615-colombia-coronovirus-restrictions-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715130615-colombia-coronovirus-restrictions-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715130615-colombia-coronovirus-restrictions-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715130615-colombia-coronovirus-restrictions-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715130615-colombia-coronovirus-restrictions-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715130615-colombia-coronovirus-restrictions-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715130615-colombia-coronovirus-restrictions-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715130615-colombia-coronovirus-restrictions-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715130615-colombia-coronovirus-restrictions-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715130615-colombia-coronovirus-restrictions-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Her husband strangled her. Then her country locked down and now she's forced to live with him]]></title>
+         <description><![CDATA[Activists in Mexico say lockdown measures put in place to slow the spread of Covid-19 lead to an uptick in domestic violence, especially against women. CNN's Matt Rivers reports.]]></description>
+         <link>https://www.cnn.com/videos/world/2020/07/16/mexico-domestic-abuse-gender-violence-coronavirus-covid-19-lockdown-rivers-pkg-intl-ldn-vpx.cnn</link>
+         <guid isPermaLink="true">https://www.cnn.com/videos/world/2020/07/16/mexico-domestic-abuse-gender-violence-coronavirus-covid-19-lockdown-rivers-pkg-intl-ldn-vpx.cnn</guid>
+         <pubDate>Thu, 16 Jul 2020 12:44:22 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716132743-mexico-domestic-abuse-gender-violence-coronavirus-covid-19-lockdown-rivers-pkg-intl-ldn-vpx-00003510-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716132743-mexico-domestic-abuse-gender-violence-coronavirus-covid-19-lockdown-rivers-pkg-intl-ldn-vpx-00003510-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716132743-mexico-domestic-abuse-gender-violence-coronavirus-covid-19-lockdown-rivers-pkg-intl-ldn-vpx-00003510-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716132743-mexico-domestic-abuse-gender-violence-coronavirus-covid-19-lockdown-rivers-pkg-intl-ldn-vpx-00003510-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716132743-mexico-domestic-abuse-gender-violence-coronavirus-covid-19-lockdown-rivers-pkg-intl-ldn-vpx-00003510-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716132743-mexico-domestic-abuse-gender-violence-coronavirus-covid-19-lockdown-rivers-pkg-intl-ldn-vpx-00003510-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716132743-mexico-domestic-abuse-gender-violence-coronavirus-covid-19-lockdown-rivers-pkg-intl-ldn-vpx-00003510-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716132743-mexico-domestic-abuse-gender-violence-coronavirus-covid-19-lockdown-rivers-pkg-intl-ldn-vpx-00003510-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716132743-mexico-domestic-abuse-gender-violence-coronavirus-covid-19-lockdown-rivers-pkg-intl-ldn-vpx-00003510-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716132743-mexico-domestic-abuse-gender-violence-coronavirus-covid-19-lockdown-rivers-pkg-intl-ldn-vpx-00003510-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716132743-mexico-domestic-abuse-gender-violence-coronavirus-covid-19-lockdown-rivers-pkg-intl-ldn-vpx-00003510-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Vogue's first Black editor-in-chief says he was racially profiled on his way into work]]></title>
+         <description><![CDATA[British Vogue's editor Edward Enninful said he was racially profiled on the way into work, with a security guard instructing him to enter the magazine's premises via the loading dock.]]></description>
+         <link>https://www.cnn.com/style/article/edward-enninful-vogue-racially-profiled/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/style/article/edward-enninful-vogue-racially-profiled/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 08:17:35 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715235357-edward-enninful-file-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715235357-edward-enninful-file-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715235357-edward-enninful-file-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715235357-edward-enninful-file-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715235357-edward-enninful-file-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715235357-edward-enninful-file-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715235357-edward-enninful-file-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715235357-edward-enninful-file-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715235357-edward-enninful-file-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715235357-edward-enninful-file-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715235357-edward-enninful-file-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[US-China relations are at an all time low, but Trump still seems unsure how to handle Beijing]]></title>
+         <link>https://www.cnn.com/collections/intl-us-china-tensions-0716/</link>
+         <guid isPermaLink="true">https://www.cnn.com/collections/intl-us-china-tensions-0716/</guid>
+         <pubDate>Thu, 16 Jul 2020 14:24:37 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200601124932-01-trump-0529-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200601124932-01-trump-0529-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200601124932-01-trump-0529-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200601124932-01-trump-0529-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200601124932-01-trump-0529-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200601124932-01-trump-0529-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200601124932-01-trump-0529-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200601124932-01-trump-0529-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200601124932-01-trump-0529-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200601124932-01-trump-0529-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200601124932-01-trump-0529-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Footage shows ships damaged by fire at Iranian port city]]></title>
+         <description><![CDATA[A fire has damaged at least seven vessels in a port city in Iran, acording to state media. Just two weeks after a fire at a nuclear complex, it's the latest in a series of mysterious incidents at key locations around the country. CNN's Jomana Karadsheh reports.]]></description>
+         <link>https://www.cnn.com/videos/world/2020/07/16/iran-bushehr-persian-gulf-fires-ship-karadsheh-intl-hnk-vpx.cnn</link>
+         <guid isPermaLink="true">https://www.cnn.com/videos/world/2020/07/16/iran-bushehr-persian-gulf-fires-ship-karadsheh-intl-hnk-vpx.cnn</guid>
+         <pubDate>Thu, 16 Jul 2020 08:43:22 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716152758-iran-bushehr-fire-1-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716152758-iran-bushehr-fire-1-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716152758-iran-bushehr-fire-1-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716152758-iran-bushehr-fire-1-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716152758-iran-bushehr-fire-1-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716152758-iran-bushehr-fire-1-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716152758-iran-bushehr-fire-1-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716152758-iran-bushehr-fire-1-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716152758-iran-bushehr-fire-1-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716152758-iran-bushehr-fire-1-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716152758-iran-bushehr-fire-1-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Ivanka Trump's alternative universe]]></title>
+         <description><![CDATA[In a week that has seen the President's daughter hawk beans on her social media account, and unveil a jobs assistance program in the midst of a global pandemic with the awkward moniker of "Find Something New," Ivanka Trump once again finds herself in the middle of a heap of criticism.]]></description>
+         <link>https://www.cnn.com/2020/07/16/politics/ivanka-trump-goya-find-something-new/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/16/politics/ivanka-trump-goya-find-something-new/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 20:51:54 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715112935-ivanka-trump-goya-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715112935-ivanka-trump-goya-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715112935-ivanka-trump-goya-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715112935-ivanka-trump-goya-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715112935-ivanka-trump-goya-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715112935-ivanka-trump-goya-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715112935-ivanka-trump-goya-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715112935-ivanka-trump-goya-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715112935-ivanka-trump-goya-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715112935-ivanka-trump-goya-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715112935-ivanka-trump-goya-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[US has 'several' indications Iran has put portions of air defense on high alert]]></title>
+         <description><![CDATA[The US has "several" intelligence indications that Iran has put portions of its air defense system on "high alert" in recent days, following unexplained explosions at key facilities tied to the country's military and nuclear programs, according to a US official who is closely tracking developments.]]></description>
+         <link>https://www.cnn.com/2020/07/16/politics/us-intelligence-iran-air-defenses/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/16/politics/us-intelligence-iran-air-defenses/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 20:53:21 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200702153046-natanz-facility-damaged-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200702153046-natanz-facility-damaged-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200702153046-natanz-facility-damaged-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200702153046-natanz-facility-damaged-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200702153046-natanz-facility-damaged-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200702153046-natanz-facility-damaged-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200702153046-natanz-facility-damaged-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200702153046-natanz-facility-damaged-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200702153046-natanz-facility-damaged-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200702153046-natanz-facility-damaged-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200702153046-natanz-facility-damaged-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[How the world got Covid-19 messaging so wrong]]></title>
+         <link>https://www.cnn.com/collections/intl-gobal-coronavirus-0716/</link>
+         <guid isPermaLink="true">https://www.cnn.com/collections/intl-gobal-coronavirus-0716/</guid>
+         <pubDate>Thu, 16 Jul 2020 14:00:09 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716094417-01-coronavirus-messaging-us-0703-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716094417-01-coronavirus-messaging-us-0703-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716094417-01-coronavirus-messaging-us-0703-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716094417-01-coronavirus-messaging-us-0703-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716094417-01-coronavirus-messaging-us-0703-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716094417-01-coronavirus-messaging-us-0703-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716094417-01-coronavirus-messaging-us-0703-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716094417-01-coronavirus-messaging-us-0703-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716094417-01-coronavirus-messaging-us-0703-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716094417-01-coronavirus-messaging-us-0703-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716094417-01-coronavirus-messaging-us-0703-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Will Trump try to self-pardon?]]></title>
+         <description><![CDATA[President Donald Trump has used his pardon power sparingly, but overwhelmingly to benefit his friends and to protect his own interests. Former George W. Bush Administration official Jack Goldsmith recently analyzed Trump's pardons for Lawfare and concluded that "no president in American history comes close to matching Trump's systematically self-serving use of the pardon power."]]></description>
+         <link>https://www.cnn.com/2020/07/16/opinions/will-trump-try-to-self-pardon-honig/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/16/opinions/will-trump-try-to-self-pardon-honig/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 15:02:25 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/160728093323-01-trump-smirk-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/160728093323-01-trump-smirk-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/160728093323-01-trump-smirk-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/160728093323-01-trump-smirk-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/160728093323-01-trump-smirk-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/160728093323-01-trump-smirk-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/160728093323-01-trump-smirk-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/160728093323-01-trump-smirk-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/160728093323-01-trump-smirk-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/160728093323-01-trump-smirk-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/160728093323-01-trump-smirk-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[How New Zealand became the apocalypse bunker of the world]]></title>
+         <description><![CDATA[In Queenstown — a picturesque ski spot that often attracts comparisons to Aspen, Colorado — rumors about foreigners investing in apocalypse-proof bunkers have been swirling for years.]]></description>
+         <link>https://www.cnn.com/2020/07/15/business/bunkers-new-zealand-intl-hnk/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/15/business/bunkers-new-zealand-intl-hnk/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 02:33:10 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/171122174447-queenstown-new-zealand-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/171122174447-queenstown-new-zealand-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/171122174447-queenstown-new-zealand-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/171122174447-queenstown-new-zealand-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/171122174447-queenstown-new-zealand-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/171122174447-queenstown-new-zealand-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/171122174447-queenstown-new-zealand-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/171122174447-queenstown-new-zealand-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/171122174447-queenstown-new-zealand-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/171122174447-queenstown-new-zealand-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/171122174447-queenstown-new-zealand-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Mary Trump's book breaks record with mammoth sales]]></title>
+         <description><![CDATA[Mary Trump's tell-all book had sold a staggering 950,000 copies by the end of its first day on sale, publisher Simon & Schuster said Thursday.]]></description>
+         <link>https://www.cnn.com/2020/07/16/media/mary-trump-book-sales/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/16/media/mary-trump-book-sales/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 17:19:37 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200707121229-mary-l-trump-mobapp-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200707121229-mary-l-trump-mobapp-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200707121229-mary-l-trump-mobapp-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200707121229-mary-l-trump-mobapp-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200707121229-mary-l-trump-mobapp-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200707121229-mary-l-trump-mobapp-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200707121229-mary-l-trump-mobapp-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200707121229-mary-l-trump-mobapp-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200707121229-mary-l-trump-mobapp-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200707121229-mary-l-trump-mobapp-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200707121229-mary-l-trump-mobapp-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Bacteria that eats metal accidentally discovered by scientists]]></title>
+         <description><![CDATA[Scientists have discovered a type of bacteria that eats and gets its calories from metal, after suspecting they exist for more than a hundred years but never proving it.]]></description>
+         <link>https://www.cnn.com/2020/07/16/world/metal-eating-bacteria-intl-scli-scn/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/16/world/metal-eating-bacteria-intl-scli-scn/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 14:55:12 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716141247-manganese-oxide-nodules-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716141247-manganese-oxide-nodules-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716141247-manganese-oxide-nodules-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716141247-manganese-oxide-nodules-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716141247-manganese-oxide-nodules-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716141247-manganese-oxide-nodules-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716141247-manganese-oxide-nodules-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716141247-manganese-oxide-nodules-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716141247-manganese-oxide-nodules-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716141247-manganese-oxide-nodules-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716141247-manganese-oxide-nodules-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Pentagon reveals some details of Trump's 'super duper' missile]]></title>
+         <description><![CDATA[Defense officials have revealed to CNN details about the hypersonic missile President Donald Trump has long touted as a "super duper" new military weapon -- part of a major effort to catch up to Russian and Chinese hypersonic weapons programs.]]></description>
+         <link>https://www.cnn.com/2020/07/16/politics/pentagon-hypersonic-missile/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/16/politics/pentagon-hypersonic-missile/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 19:37:52 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180311184732-02-advanced-hypersonic-missile-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180311184732-02-advanced-hypersonic-missile-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180311184732-02-advanced-hypersonic-missile-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180311184732-02-advanced-hypersonic-missile-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180311184732-02-advanced-hypersonic-missile-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180311184732-02-advanced-hypersonic-missile-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180311184732-02-advanced-hypersonic-missile-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180311184732-02-advanced-hypersonic-missile-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180311184732-02-advanced-hypersonic-missile-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180311184732-02-advanced-hypersonic-missile-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180311184732-02-advanced-hypersonic-missile-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Covid-19 cases among US military causes mistrust in Okinawa]]></title>
+         <description><![CDATA[More US service members in Okinawa, Japan are testing positive for Covid-19, causing growing mistrust in an already troubled relationship between the two countries.]]></description>
+         <link>https://www.cnn.com/videos/world/2020/07/16/us-military-japan-okinawa-covid-spread-kaori-enjoji-intl-pkg-vpx.cnn</link>
+         <guid isPermaLink="true">https://www.cnn.com/videos/world/2020/07/16/us-military-japan-okinawa-covid-spread-kaori-enjoji-intl-pkg-vpx.cnn</guid>
+         <pubDate>Thu, 16 Jul 2020 04:03:44 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715212121-us-military-covid19-okinawa-kaori-enjoji-pkg-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715212121-us-military-covid19-okinawa-kaori-enjoji-pkg-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715212121-us-military-covid19-okinawa-kaori-enjoji-pkg-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715212121-us-military-covid19-okinawa-kaori-enjoji-pkg-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715212121-us-military-covid19-okinawa-kaori-enjoji-pkg-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715212121-us-military-covid19-okinawa-kaori-enjoji-pkg-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715212121-us-military-covid19-okinawa-kaori-enjoji-pkg-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715212121-us-military-covid19-okinawa-kaori-enjoji-pkg-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715212121-us-military-covid19-okinawa-kaori-enjoji-pkg-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715212121-us-military-covid19-okinawa-kaori-enjoji-pkg-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715212121-us-military-covid19-okinawa-kaori-enjoji-pkg-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[The county offering $3,000 if you contract Covid-19]]></title>
+         <link>https://www.cnn.com/collections/intl-pandemic-travel-0716/</link>
+         <guid isPermaLink="true">https://www.cnn.com/collections/intl-pandemic-travel-0716/</guid>
+         <pubDate>Thu, 16 Jul 2020 14:36:44 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200710231908-travel-incentives---uzbekistan---getty-images-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200710231908-travel-incentives---uzbekistan---getty-images-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200710231908-travel-incentives---uzbekistan---getty-images-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200710231908-travel-incentives---uzbekistan---getty-images-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200710231908-travel-incentives---uzbekistan---getty-images-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200710231908-travel-incentives---uzbekistan---getty-images-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200710231908-travel-incentives---uzbekistan---getty-images-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200710231908-travel-incentives---uzbekistan---getty-images-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200710231908-travel-incentives---uzbekistan---getty-images-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200710231908-travel-incentives---uzbekistan---getty-images-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200710231908-travel-incentives---uzbekistan---getty-images-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[The world loves the US dollar. Trump and the pandemic could change that]]></title>
+         <link>https://www.cnn.com/collections/intl-business-0716/</link>
+         <guid isPermaLink="true">https://www.cnn.com/collections/intl-business-0716/</guid>
+         <pubDate>Thu, 16 Jul 2020 15:38:30 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713125834-01-dollar-bills---stock-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713125834-01-dollar-bills---stock-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713125834-01-dollar-bills---stock-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713125834-01-dollar-bills---stock-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713125834-01-dollar-bills---stock-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713125834-01-dollar-bills---stock-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713125834-01-dollar-bills---stock-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713125834-01-dollar-bills---stock-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713125834-01-dollar-bills---stock-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713125834-01-dollar-bills---stock-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713125834-01-dollar-bills---stock-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[GOP state rep. claims Florida is doing 'just fine.' See CNN anchor read the stunning data to him]]></title>
+         <description><![CDATA[Florida Republican state lawmaker Rep. Anthony Sabatini, who has filed numerous lawsuits to prevent mask mandates in his state, tells CNN's Brianna Keilar that his state is doing just fine despite data showing Florida is a hotspot for coronavirus.]]></description>
+         <link>https://www.cnn.com/videos/politics/2020/07/15/anthony-sabatini-florida-is-doing-fine-keilar-sot-nr-vpx.cnn</link>
+         <guid isPermaLink="true">https://www.cnn.com/videos/politics/2020/07/15/anthony-sabatini-florida-is-doing-fine-keilar-sot-nr-vpx.cnn</guid>
+         <pubDate>Wed, 15 Jul 2020 19:42:09 GMT</pubDate>
+      </item>
+      <item>
+         <title><![CDATA[Plane flies Confederate flag over NASCAR race]]></title>
+         <description><![CDATA[A small plane flew a Confederate flag over the Bristol Motor Speedway on Wednesday as thousands of fans gathered to watch NASCAR's All-Star Race in Tennessee.]]></description>
+         <link>https://www.cnn.com/2020/07/16/motorsport/nascar-confederate-flag-bristol-speedway-trnd-spt-intl/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/16/motorsport/nascar-confederate-flag-bristol-speedway-trnd-spt-intl/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 14:38:20 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716071703-06-bristol-nascar-0715-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716071703-06-bristol-nascar-0715-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716071703-06-bristol-nascar-0715-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716071703-06-bristol-nascar-0715-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716071703-06-bristol-nascar-0715-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716071703-06-bristol-nascar-0715-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716071703-06-bristol-nascar-0715-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716071703-06-bristol-nascar-0715-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716071703-06-bristol-nascar-0715-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716071703-06-bristol-nascar-0715-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716071703-06-bristol-nascar-0715-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Dutch city cuts ties with Polish twin over 'LGBT-free zone']]></title>
+         <description><![CDATA[A city in the Netherlands has severed ties with its sister city in Poland after the latter declared itself an "LGBT-free zone."]]></description>
+         <link>https://www.cnn.com/2020/07/16/europe/netherlands-twin-city-poland-lgbt-scli-intl/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/16/europe/netherlands-twin-city-poland-lgbt-scli-intl/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 16:25:35 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716153604-netherlands-poland-cities-gay-rights-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716153604-netherlands-poland-cities-gay-rights-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716153604-netherlands-poland-cities-gay-rights-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716153604-netherlands-poland-cities-gay-rights-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716153604-netherlands-poland-cities-gay-rights-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716153604-netherlands-poland-cities-gay-rights-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716153604-netherlands-poland-cities-gay-rights-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716153604-netherlands-poland-cities-gay-rights-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716153604-netherlands-poland-cities-gay-rights-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716153604-netherlands-poland-cities-gay-rights-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716153604-netherlands-poland-cities-gay-rights-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Zindzi Mandela tested positive for Covid-19 on the day she died, son says]]></title>
+         <description><![CDATA[Zindzi Mandela, South Africa's ambassador to Denmark and daughter of anti-apartheid leaders Nelson and Winnie Mandela, tested positive for Covid-19 on the day she died, her son Zondwa Mandela told South Africa's public broadcaster, SABC, Wednesday.]]></description>
+         <link>https://www.cnn.com/2020/07/16/africa/zindzi-mandela-coronavirus-intl/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/16/africa/zindzi-mandela-coronavirus-intl/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 17:34:10 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713101253-02-zindzi-mandela-file-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713101253-02-zindzi-mandela-file-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713101253-02-zindzi-mandela-file-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713101253-02-zindzi-mandela-file-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713101253-02-zindzi-mandela-file-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713101253-02-zindzi-mandela-file-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713101253-02-zindzi-mandela-file-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713101253-02-zindzi-mandela-file-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713101253-02-zindzi-mandela-file-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713101253-02-zindzi-mandela-file-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713101253-02-zindzi-mandela-file-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[How masks are reshaping the face of the retail economy]]></title>
+         <description><![CDATA[As masks become ubiquitous amid the coronavirus pandemic, retailers are rushing to meet demand. CNN's Clare Sebastian reports.]]></description>
+         <link>https://www.cnn.com/videos/business/2020/07/16/masks-retail-economy-coronavirus-clare-sebastian-pkg.cnn</link>
+         <guid isPermaLink="true">https://www.cnn.com/videos/business/2020/07/16/masks-retail-economy-coronavirus-clare-sebastian-pkg.cnn</guid>
+         <pubDate>Thu, 16 Jul 2020 11:44:18 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200420143421-grocery-masks-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200420143421-grocery-masks-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200420143421-grocery-masks-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200420143421-grocery-masks-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200420143421-grocery-masks-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200420143421-grocery-masks-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200420143421-grocery-masks-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200420143421-grocery-masks-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200420143421-grocery-masks-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200420143421-grocery-masks-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200420143421-grocery-masks-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[One woman, four men, a tiny boat and a hungry polar bear]]></title>
+         <description><![CDATA[The summer before I turned 40 -- with my fertility ebbing, as everyone with a vested interest in such things felt the need to remind me -- I decided to set sail on the biggest adventure of my life.]]></description>
+         <link>https://www.cnn.com/travel/article/svalbard-norway-arctic-ice/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/travel/article/svalbard-norway-arctic-ice/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 15:41:32 GMT</pubDate>
+      </item>
+      <item>
+         <title><![CDATA[The moon is about 85 million years younger than we thought, new study finds]]></title>
+         <description><![CDATA[The moon is a constant in our lives. It causes Earth's ocean tides to ebb and flow, it stabilizes the planet's axial tilt and, until recently, it was assumed to have accompanied the Earth for over 4.5 billion years.]]></description>
+         <link>https://www.cnn.com/2020/07/16/world/moon-85-million-years-younger-scn-trnd/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/16/world/moon-85-million-years-younger-scn-trnd/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 15:42:55 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716162121-molten-moon-illustration-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716162121-molten-moon-illustration-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716162121-molten-moon-illustration-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716162121-molten-moon-illustration-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716162121-molten-moon-illustration-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716162121-molten-moon-illustration-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716162121-molten-moon-illustration-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716162121-molten-moon-illustration-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716162121-molten-moon-illustration-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716162121-molten-moon-illustration-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716162121-molten-moon-illustration-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[CNN anchor tweets that he's still waiting for test results. His colleague responds]]></title>
+         <description><![CDATA[CNN reporters Fred Pleitgen and Victor Blackwell discuss the stark contrast of coronavirus testing in the US and Germany.]]></description>
+         <link>https://www.cnn.com/videos/world/2020/07/16/coronavirus-test-delays-us-blackwell-pleitgen-berlin-vpx.cnn</link>
+         <guid isPermaLink="true">https://www.cnn.com/videos/world/2020/07/16/coronavirus-test-delays-us-blackwell-pleitgen-berlin-vpx.cnn</guid>
+         <pubDate>Thu, 16 Jul 2020 01:31:36 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715205515-pleitgen-blackwell-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715205515-pleitgen-blackwell-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715205515-pleitgen-blackwell-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715205515-pleitgen-blackwell-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715205515-pleitgen-blackwell-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715205515-pleitgen-blackwell-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715205515-pleitgen-blackwell-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715205515-pleitgen-blackwell-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715205515-pleitgen-blackwell-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715205515-pleitgen-blackwell-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715205515-pleitgen-blackwell-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Teen reels in 700-pound bluefin tuna after 7-hour fight]]></title>
+         <description><![CDATA[Three teenage fishermen can tell their friends about the big one that didn't get away after fighting for 7 hours to land a huge bluefin tuna earlier this month off the coast of Maine.]]></description>
+         <link>https://www.cnn.com/2020/07/16/us/teens-catch-giant-tuna-trnd/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/16/us/teens-catch-giant-tuna-trnd/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 19:44:50 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716124719-01-teens-bluefin-tuna-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716124719-01-teens-bluefin-tuna-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716124719-01-teens-bluefin-tuna-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716124719-01-teens-bluefin-tuna-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716124719-01-teens-bluefin-tuna-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716124719-01-teens-bluefin-tuna-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716124719-01-teens-bluefin-tuna-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716124719-01-teens-bluefin-tuna-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716124719-01-teens-bluefin-tuna-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716124719-01-teens-bluefin-tuna-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716124719-01-teens-bluefin-tuna-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[What it means for Hong Kong as US revokes its special trade status]]></title>
+         <description><![CDATA[US President Donald Trump has signed an executive order ending Hong Kong's special trade status to treat the city the same as mainland China. He also signed the Hong Kong Autonomy Act into law to sanction businesses and individuals that help China restrict Hong Kong. CNN's Kristie Lu Stout reports.]]></description>
+         <link>https://www.cnn.com/videos/business/2020/07/16/hong-kong-us-autonomy-act-special-trade-status-revoked-lu-stout-pkg-intl-hnk-vpx.cnn</link>
+         <guid isPermaLink="true">https://www.cnn.com/videos/business/2020/07/16/hong-kong-us-autonomy-act-special-trade-status-revoked-lu-stout-pkg-intl-hnk-vpx.cnn</guid>
+         <pubDate>Thu, 16 Jul 2020 03:52:28 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716111947-hong-kong-trade-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716111947-hong-kong-trade-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716111947-hong-kong-trade-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716111947-hong-kong-trade-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716111947-hong-kong-trade-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716111947-hong-kong-trade-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716111947-hong-kong-trade-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716111947-hong-kong-trade-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716111947-hong-kong-trade-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716111947-hong-kong-trade-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716111947-hong-kong-trade-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA['Magic School Bus' author Joanna Cole dies age 75]]></title>
+         <description><![CDATA[Award-winning US author Joanna Cole, who wrote "The Magic School Bus" series and other children's books, has died at the age of 75.]]></description>
+         <link>https://www.cnn.com/2020/07/16/world/joanna-cole-magic-school-bus-death-scli-intl/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/16/world/joanna-cole-magic-school-bus-death-scli-intl/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 15:34:29 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716053400-file-02-magic-school-bus-joanna-cole-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716053400-file-02-magic-school-bus-joanna-cole-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716053400-file-02-magic-school-bus-joanna-cole-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716053400-file-02-magic-school-bus-joanna-cole-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716053400-file-02-magic-school-bus-joanna-cole-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716053400-file-02-magic-school-bus-joanna-cole-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716053400-file-02-magic-school-bus-joanna-cole-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716053400-file-02-magic-school-bus-joanna-cole-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716053400-file-02-magic-school-bus-joanna-cole-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716053400-file-02-magic-school-bus-joanna-cole-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716053400-file-02-magic-school-bus-joanna-cole-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Disappearing deep-sea, ultra-black fish mystery solved by scientists]]></title>
+         <description><![CDATA[The Invisible Man isn't the only expert in making himself imperceptible with optics science. Species of ultra-black fish also have that tactic down pat, according to a study published Thursday in the journal Current Biology.]]></description>
+         <link>https://www.cnn.com/2020/07/16/world/how-black-fish-disappear-study-scn/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/16/world/how-black-fish-disappear-study-scn/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 15:26:28 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715131514-black-fish-study-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715131514-black-fish-study-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715131514-black-fish-study-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715131514-black-fish-study-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715131514-black-fish-study-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715131514-black-fish-study-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715131514-black-fish-study-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715131514-black-fish-study-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715131514-black-fish-study-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715131514-black-fish-study-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715131514-black-fish-study-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Solar Orbiter mission shares closest images of the sun, reveals 'campfires' near its surface]]></title>
+         <description><![CDATA[Our sun was ready for its close-up last month, and the new Solar Orbiter mission captured the closest images ever taken of the sun during its first pass. The images were released on Thursday.]]></description>
+         <link>https://www.cnn.com/2020/07/16/world/solar-orbiter-first-closest-images-sun-campfires-scn-trnd/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/16/world/solar-orbiter-first-closest-images-sun-campfires-scn-trnd/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 12:53:50 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716083745-01-solar-orbiter-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716083745-01-solar-orbiter-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716083745-01-solar-orbiter-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716083745-01-solar-orbiter-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716083745-01-solar-orbiter-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716083745-01-solar-orbiter-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716083745-01-solar-orbiter-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716083745-01-solar-orbiter-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716083745-01-solar-orbiter-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716083745-01-solar-orbiter-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716083745-01-solar-orbiter-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Chris Evans praises boy who saved sister from dog attack]]></title>
+         <description><![CDATA[Bridger Walker, a brave 6-year-old boy who shielded his sister from an attacking dog, received a surprise message from Chris Evans - who is sending Bridger a signed Captain America shield.]]></description>
+         <link>https://www.cnn.com/videos/entertainment/2020/07/16/chris-evans-bridger-walker-dog-attack-good-stuff-newday-vpx.cnn</link>
+         <guid isPermaLink="true">https://www.cnn.com/videos/entertainment/2020/07/16/chris-evans-bridger-walker-dog-attack-good-stuff-newday-vpx.cnn</guid>
+         <pubDate>Thu, 16 Jul 2020 13:44:14 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716092743-chris-evans-bridger-walker-dog-attack-good-stuff-newday-vpx-00012824-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716092743-chris-evans-bridger-walker-dog-attack-good-stuff-newday-vpx-00012824-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716092743-chris-evans-bridger-walker-dog-attack-good-stuff-newday-vpx-00012824-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716092743-chris-evans-bridger-walker-dog-attack-good-stuff-newday-vpx-00012824-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716092743-chris-evans-bridger-walker-dog-attack-good-stuff-newday-vpx-00012824-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716092743-chris-evans-bridger-walker-dog-attack-good-stuff-newday-vpx-00012824-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716092743-chris-evans-bridger-walker-dog-attack-good-stuff-newday-vpx-00012824-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716092743-chris-evans-bridger-walker-dog-attack-good-stuff-newday-vpx-00012824-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716092743-chris-evans-bridger-walker-dog-attack-good-stuff-newday-vpx-00012824-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716092743-chris-evans-bridger-walker-dog-attack-good-stuff-newday-vpx-00012824-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716092743-chris-evans-bridger-walker-dog-attack-good-stuff-newday-vpx-00012824-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Elena Delle Donne 'shocked' her WNBA season medical opt-out request was denied, Mystics say she'll be paid]]></title>
+         <description><![CDATA[Elena Delle Donne, the reigning WNBA MVP, wants to play basketball.]]></description>
+         <link>https://www.cnn.com/2020/07/15/sport/elena-delle-donne-wnba-opt-out-denied-spt-intl/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/15/sport/elena-delle-donne-wnba-opt-out-denied-spt-intl/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 10:27:22 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200122130803-elena-delle-donne-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200122130803-elena-delle-donne-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200122130803-elena-delle-donne-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200122130803-elena-delle-donne-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200122130803-elena-delle-donne-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200122130803-elena-delle-donne-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200122130803-elena-delle-donne-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200122130803-elena-delle-donne-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200122130803-elena-delle-donne-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200122130803-elena-delle-donne-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200122130803-elena-delle-donne-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Aggressive honey bees at Joshua Tree National Park force multiple campgrounds to close]]></title>
+         <description><![CDATA[Two areas of Joshua Tree National Park are closed after aggressive honey bees forced the park to clear the areas over the past week.]]></description>
+         <link>https://www.cnn.com/travel/article/joshua-tree-honey-bees/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/travel/article/joshua-tree-honey-bees/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 14:10:13 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/151104155637-honey-bee-tease-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/151104155637-honey-bee-tease-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/151104155637-honey-bee-tease-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/151104155637-honey-bee-tease-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/151104155637-honey-bee-tease-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/151104155637-honey-bee-tease-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/151104155637-honey-bee-tease-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/151104155637-honey-bee-tease-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/151104155637-honey-bee-tease-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/151104155637-honey-bee-tease-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/151104155637-honey-bee-tease-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Cats may have been pets along the Silk Road over 1,000 years ago]]></title>
+         <description><![CDATA[Cats may have been pets for Kazakh pastoralists along the Silk Road over 1,000 years ago, a new study said.]]></description>
+         <link>https://www.cnn.com/2020/07/16/world/silk-road-cats-pets-scn/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/16/world/silk-road-cats-pets-scn/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 11:11:41 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713171600-02-silk-road-cats-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713171600-02-silk-road-cats-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713171600-02-silk-road-cats-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713171600-02-silk-road-cats-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713171600-02-silk-road-cats-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713171600-02-silk-road-cats-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713171600-02-silk-road-cats-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713171600-02-silk-road-cats-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713171600-02-silk-road-cats-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713171600-02-silk-road-cats-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200713171600-02-silk-road-cats-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[This flying photographer is documenting how humans are impacting the planet]]></title>
+         <description><![CDATA[Flying hundreds of feet above the ground in a motorized paraglider, George Steinmetz has photographed the world's most remote environments from the sky.]]></description>
+         <link>https://www.cnn.com/style/article/george-steinmetz-climate-change-c2e-spc/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/style/article/george-steinmetz-climate-change-c2e-spc/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 08:29:31 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/150527092926-cnnphotos-george-steinmetz-headshot-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/150527092926-cnnphotos-george-steinmetz-headshot-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/150527092926-cnnphotos-george-steinmetz-headshot-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/150527092926-cnnphotos-george-steinmetz-headshot-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/150527092926-cnnphotos-george-steinmetz-headshot-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/150527092926-cnnphotos-george-steinmetz-headshot-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/150527092926-cnnphotos-george-steinmetz-headshot-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/150527092926-cnnphotos-george-steinmetz-headshot-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/150527092926-cnnphotos-george-steinmetz-headshot-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/150527092926-cnnphotos-george-steinmetz-headshot-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/150527092926-cnnphotos-george-steinmetz-headshot-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Pandemic can't stop Simone Biles' stunning aerial display]]></title>
+         <description><![CDATA[US Olympic gymnast Simone Biles posted video of her performing a string of skills that she says she hadn't attempted since she was 13.]]></description>
+         <link>https://www.cnn.com/videos/sports/2020/07/15/simone-biles-double-tuck-video-orig-vstan-bdk.cnn</link>
+         <guid isPermaLink="true">https://www.cnn.com/videos/sports/2020/07/15/simone-biles-double-tuck-video-orig-vstan-bdk.cnn</guid>
+         <pubDate>Wed, 15 Jul 2020 15:13:08 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715103947-simone-biles-double-tuck-video-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715103947-simone-biles-double-tuck-video-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715103947-simone-biles-double-tuck-video-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715103947-simone-biles-double-tuck-video-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715103947-simone-biles-double-tuck-video-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715103947-simone-biles-double-tuck-video-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715103947-simone-biles-double-tuck-video-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715103947-simone-biles-double-tuck-video-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715103947-simone-biles-double-tuck-video-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715103947-simone-biles-double-tuck-video-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715103947-simone-biles-double-tuck-video-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Morgues in hard-hit US states are filling up]]></title>
+         <description><![CDATA[With skyrocketing coronavirus hospitalizations in several states, hard-hit counties in Arizona and Texas are preparing for the worst by bringing in refrigerated trucks as morgues fill up.]]></description>
+         <link>https://www.cnn.com/2020/07/16/health/us-coronavirus-thursday/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/16/health/us-coronavirus-thursday/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 19:36:55 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716134841-texas-coronavirus-deaths-0630-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716134841-texas-coronavirus-deaths-0630-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716134841-texas-coronavirus-deaths-0630-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716134841-texas-coronavirus-deaths-0630-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716134841-texas-coronavirus-deaths-0630-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716134841-texas-coronavirus-deaths-0630-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716134841-texas-coronavirus-deaths-0630-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716134841-texas-coronavirus-deaths-0630-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716134841-texas-coronavirus-deaths-0630-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716134841-texas-coronavirus-deaths-0630-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200716134841-texas-coronavirus-deaths-0630-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[What the heck is Georgia's governor doing?]]></title>
+         <description><![CDATA[On Wednesday in Georgia, there were almost 4,000 confirmed cases of coronavirus. Almost 2,800 people are hospitalized due to Covid-19, the highest number in the state's ongoing battle against the virus. A total of 37 people died, the highest number of daily deaths since June 25, according to data from the Atlanta Journal-Constitution.]]></description>
+         <link>https://www.cnn.com/2020/07/16/politics/brian-kemp-georgia-coronavirus-masks/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/16/politics/brian-kemp-georgia-coronavirus-masks/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 16:53:50 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200422170511-gov-georgia-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200422170511-gov-georgia-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200422170511-gov-georgia-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200422170511-gov-georgia-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200422170511-gov-georgia-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200422170511-gov-georgia-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200422170511-gov-georgia-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200422170511-gov-georgia-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200422170511-gov-georgia-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200422170511-gov-georgia-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200422170511-gov-georgia-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Hospital owner allegedly faked thousands of Covid-19 tests]]></title>
+         <description><![CDATA[A hospital owner in Bangladesh was arrested Thursday on charges of fraud, after allegedly issuing thousands of fake Covid-19 test results to deceive patients out of an estimated $350,000, in a wide-ranging scam that has shaken confidence in the country's medical establishment.]]></description>
+         <link>https://www.cnn.com/2020/07/16/asia/bangladesh-covid-test-scam-intl-hnk-scli/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/16/asia/bangladesh-covid-test-scam-intl-hnk-scli/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 09:07:22 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715211520-bangladesh-covid-scam-arrest-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715211520-bangladesh-covid-scam-arrest-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715211520-bangladesh-covid-scam-arrest-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715211520-bangladesh-covid-scam-arrest-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715211520-bangladesh-covid-scam-arrest-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715211520-bangladesh-covid-scam-arrest-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715211520-bangladesh-covid-scam-arrest-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715211520-bangladesh-covid-scam-arrest-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715211520-bangladesh-covid-scam-arrest-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715211520-bangladesh-covid-scam-arrest-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200715211520-bangladesh-covid-scam-arrest-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Nobel laureates' controversial idea to speed up vaccine research]]></title>
+         <description><![CDATA[More than 100 top scientists including 15 Nobel laureates have written an open letter calling for volunteers to be exposed to the coronavirus to assist with vaccine development.]]></description>
+         <link>https://www.cnn.com/2020/07/16/health/vaccine-open-letter-challenge-trials-intl-gbr/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/16/health/vaccine-open-letter-challenge-trials-intl-gbr/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 13:08:49 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200505104610-vaccine-research-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200505104610-vaccine-research-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200505104610-vaccine-research-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200505104610-vaccine-research-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200505104610-vaccine-research-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200505104610-vaccine-research-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200505104610-vaccine-research-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200505104610-vaccine-research-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200505104610-vaccine-research-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200505104610-vaccine-research-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200505104610-vaccine-research-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Even Donald Trump knows he is in deep, deep trouble]]></title>
+         <description><![CDATA[• Analysis: America was in need of a rallying cry. Then Trump stepped up to the mic
+• Trump and Fauci finally speak but Trump's attention remains elsewhere]]></description>
+         <link>https://www.cnn.com/2020/07/16/politics/donald-trump-brad-parscale-2020-campaign/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/16/politics/donald-trump-brad-parscale-2020-campaign/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 15:56:14 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200430104801-02-trump-kushner-0402-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200430104801-02-trump-kushner-0402-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200430104801-02-trump-kushner-0402-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200430104801-02-trump-kushner-0402-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200430104801-02-trump-kushner-0402-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200430104801-02-trump-kushner-0402-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200430104801-02-trump-kushner-0402-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200430104801-02-trump-kushner-0402-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200430104801-02-trump-kushner-0402-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200430104801-02-trump-kushner-0402-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200430104801-02-trump-kushner-0402-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[Trump seems unsure how to handle Beijing]]></title>
+         <description><![CDATA[Throughout his time in office, US President Donald Trump has blown hot and cold on China.]]></description>
+         <link>https://www.cnn.com/2020/07/16/asia/us-china-trump-relations-intl-hnk/index.html</link>
+         <guid isPermaLink="true">https://www.cnn.com/2020/07/16/asia/us-china-trump-relations-intl-hnk/index.html</guid>
+         <pubDate>Thu, 16 Jul 2020 13:02:58 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200601124943-02-trump-0529-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200601124943-02-trump-0529-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200601124943-02-trump-0529-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200601124943-02-trump-0529-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200601124943-02-trump-0529-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200601124943-02-trump-0529-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200601124943-02-trump-0529-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200601124943-02-trump-0529-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200601124943-02-trump-0529-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200601124943-02-trump-0529-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200601124943-02-trump-0529-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+      <item>
+         <title><![CDATA[A few tips to protect yourself online]]></title>
+         <description><![CDATA[CNN tech reporter Donie O'Sullivan thought he was being safe on social media. Watch social engineer & SocialProof Security CEO Rachel Tobac prove him very, very wrong.]]></description>
+         <link>https://www.cnn.com/videos/business/2019/10/17/hacked-tech-reporter-social-engineer-orig.cnn-business</link>
+         <guid isPermaLink="true">https://www.cnn.com/videos/business/2019/10/17/hacked-tech-reporter-social-engineer-orig.cnn-business</guid>
+         <pubDate>Fri, 18 Oct 2019 01:21:19 GMT</pubDate>
+         <media:group>
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/191018101636-gfx-social-engineering-hack-donie-02-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/191018101636-gfx-social-engineering-hack-donie-02-large-11.jpg" height="300" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/191018101636-gfx-social-engineering-hack-donie-02-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/191018101636-gfx-social-engineering-hack-donie-02-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/191018101636-gfx-social-engineering-hack-donie-02-live-video.jpg" height="324" width="576" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/191018101636-gfx-social-engineering-hack-donie-02-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/191018101636-gfx-social-engineering-hack-donie-02-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/191018101636-gfx-social-engineering-hack-donie-02-story-body.jpg" height="169" width="300" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/191018101636-gfx-social-engineering-hack-donie-02-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/191018101636-gfx-social-engineering-hack-donie-02-assign.jpg" height="186" width="248" type="image/jpeg" />
+            <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/191018101636-gfx-social-engineering-hack-donie-02-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+         </media:group>
+      </item>
+   </channel>
+</rss>
